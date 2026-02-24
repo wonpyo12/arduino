@@ -15,8 +15,8 @@
 #include <ESPAsyncWebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "test";
-const char* password = "12345678";
+const char* ssid = "5층";
+const char* password = "48864886";
 
 const char* PARAM_INPUT_1 = "state"; //주고 받는 데이터
 
